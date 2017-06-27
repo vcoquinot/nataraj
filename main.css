@@ -1,0 +1,389 @@
+
+/*FONTS*/
+
+*{
+  color: #4e0f5e;
+  font-family:'Katibeh', cursive;
+  font-family:'Georgia','sans-serif';
+ }
+
+.page{
+   background: rgba(215, 189, 226, 0.5);
+}
+/*--------------------------------------------------------------------------------*/
+/*MENU*/
+
+header nav {
+  display: flex;
+}
+
+#navbar {
+  background-color: #e80c97;
+}
+
+#navbar a{
+  color: #4e0f5e;
+  font-family:'Katibeh', cursive;
+  font-family:'Georgia','sans-serif';
+  font-size:18px;
+}   
+
+
+
+/*--------------------------------------------------------------------------------*/
+/*PHRASE INTRO PRESENTATION CENTRE + PRESENTATION ANNE*/
+
+/* Images */
+img {
+  width: 100%;
+}
+
+.glyphicon-chevron-left{
+  color:#fff;
+}
+
+.glyphicon-chevron-left{
+  color:#fff  ;
+}
+
+.carousel-caption h1{
+  font-size: 24px;
+}
+
+.jumbotron {
+  background: rgba(215, 189, 226, 0.5);
+}
+
+.carousel-caption h1{
+  font-size:16px;
+}
+
+#intro h1{
+  font-family:'Katibeh', cursive;
+  font-family:'Georgia','sans-serif';
+}
+
+#intro p, {
+  color : #4e0f5e;
+  padding:1px 1px 1px 1px;
+  font-family:'Katibeh', cursive;
+  font-family:'Georgia','sans-serif';
+  font-size:22px;
+}
+
+#intro_anne p{
+  font-size:18px;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*IMAGE CENTRALE ACCUEIL*/
+
+/*BOUTONS IMAGES*/
+.btn.btn-primary {
+  border-radius: 5px;
+  border: 0px;
+  background-color: #e80c97;
+  margin-bottom:2px;
+  margin-top: 10px;
+  font-size:16px;
+  font-family:'Katibeh', cursive;
+  font-family:'Georgia','sans-serif';
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+
+/*--------------------------------------------------------------------------------*/
+/* 4 IMAGES ANNE PLANNING EVENEMENTS VIDEOS*/
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+  border-radius:10px;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*BOLLYWOOD*/
+#bollywood h3{
+  padding-top:50px;
+  }
+
+#bollywood p{
+    font-size:16px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+  }
+
+#bollywood img{
+   padding-left: 50px;
+   padding-right: 50px; 
+  }
+
+/*--------------------------------------------------------------------------------*/
+/*ANNE*/
+#anne p{
+  font-size: 16px;
+}
+
+#anne {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50px;
+  margin-bottom:15px;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*COURS ET STAGES*/
+#cours{
+  margin: 50px 30px 5px 30px;
+  border-bottom:solid 5px #e80c97;
+  padding-bottom:35px;
+}
+
+#cours h4{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    color: #4e0f5e;
+    font-size:20px;
+}
+
+#cours p {
+  font-size:18px;
+  padding-top :25px;
+}
+
+#planning{
+  padding-bottom:35px;
+  margin-top: 10px;
+}
+
+#planning .glyphicon{
+  font-size:20px;
+  color: #e80c97;
+}
+
+#planning th{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#planning td{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#planning p{
+  font-size: 18px;
+  padding-left:10px; 
+}
+
+#stages h4{
+  padding-bottom: 25px;
+  font-size:20px;
+}
+
+#stages{
+  margin: 5px 30px 5px 30px;
+  padding-bottom:35px;
+}
+
+#stages h5 {
+  font-size:18px;
+}
+
+#stages ul{
+  list-style: none;
+}
+
+#stages ul li{
+  padding-bottom: 25px;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*AGENDA*/
+ #agenda {
+  margin-top: 50px;
+  margin-left:15px;
+  font-size: 16px;
+ } 
+
+ #agenda  ul{
+  list-style: none;
+  padding-top: 15px;
+}
+
+#agenda ul li{
+  padding-bottom:25px;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*GALERIE*/
+
+#galerie{
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom:15px;
+  padding-bottom:5px;
+}
+
+
+#galerie h3, h4 {
+  position: center;
+  color: #4e0f5e;
+  padding-top:5px;
+  padding-left:50px;
+  margin-top: 50px;
+}
+
+#galerie img{
+  border-radius: 10px;
+}
+/*--------------------------------------------------------------------------------*/
+/*CONTACT*/
+#coordonnees{
+  margin: 100px 30px 5px 30px;
+}
+
+#coordonnees p{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    color: #4e0f5e;
+    font-size:18px;
+}
+
+#coordonnees .col-md-6 p{
+    text-align:center;
+}
+  
+
+/*LISTE COURS ET LIEUX*/
+.jumbotron_membres h5{
+  color: #e80c97;
+  margin-top:30px;
+  font-size:20px;
+}
+
+.jumbotron_membres ul {
+  list-style: none;
+}
+
+.jumbotron_membres a{
+  color:#4e0f5e;
+  font-size:20px;
+}
+
+.password{
+  margin-top:35px;
+  margin-bottom:300px;
+  margin-left: 100px;
+}
+
+
+/*--------------------------------------------------------------------------------*/
+/*PRESSE*/
+p{
+  font-size:20px;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*FOOTER*/
+
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+footer {
+  font-size: 14px;
+  font-family:'Vibur','Georgia','sans-serif';
+ /* border-top: solid 5px #f06600;*/
+  margin-top : 25px;
+  margin-bottom: 25px;
+  width:100%;
+  padding-top: 20px;
+  margin-left:20px;
+  margin-right:20px;
+  padding-bottom: 20px;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
+
+
+/* MEDIA QUERIES
+--------------------------------------------------*/
+@media (min-width: 768px) and (max-width:1024px) {
+
+  #navbar a{
+    font-size:14px;
+}   
+
+   #intro h1{
+    padding-top: 25px;
+  }
+}
+
+/*@media (min-width: 320px) and (max-width:768px) {
+  #intro p{
+    font-size:16px;
+    padding: 0px 5px 5px 5px;
+  }
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px){
+
+  #intro {
+    text-align:justify-center;
+    font-size:18px;
+
+}
+  .navbar{
+    margin-bottom: 50px;
+    font-size:15px;
+  }
+
+  #agenda {
+    margin-top: 10px;
+  }
+
+}
+
+
+
+/*
+
+Sur les écrans, quand la largeur de la fenêtre fait au maximum 1280px 
+
+/*@media all and (min-width: 768px) and (max-width: 1024px)
+{
+  #pic4 {
+    display:none;
+  }
+
+  #lotus {
+     display:none;
+  }
+}
+
+
+/* Sur tous types d'écran, quand la largeur de la fenêtre est comprise entre 1024px et 1280px 
+@media all and (min-width: 1024px) and (max-width: 1280px)
+@media screen and (max-width: 1280px)*/
+
+  
+
+
+
+/* Sur tous types d'écrans orientés verticalement 
+@media all and (orientation: portrait)*/
